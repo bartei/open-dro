@@ -1,0 +1,25 @@
+[INFO   ] Logger: Record log in /home/pi/Projects/dro/logs/kivy_21-02-07_4.txt
+[INFO   ] Kivy: v2.0.0
+[INFO   ] Kivy: Installed at "/usr/local/lib/python3.7/dist-packages/kivy/__init__.py"
+[INFO   ] Python: v3.7.3 (default, Jul 25 2020, 13:03:44) 
+[GCC 8.3.0]
+[INFO   ] Python: Interpreter at "/usr/bin/python3"
+[INFO   ] Factory: 186 symbols loaded
+[DEBUG  ] Cache: register <kv.image> with limit=None, timeout=60
+[DEBUG  ] Cache: register <kv.atlas> with limit=None, timeout=None
+[INFO   ] Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+[DEBUG  ] Cache: register <kv.texture> with limit=1000, timeout=60
+[DEBUG  ] Cache: register <kv.shader> with limit=1000, timeout=3600
+[DEBUG  ] Cache: register <kv.lang> with limit=None, timeout=None
+[DEBUG  ] Text: Provider <pango> ignored by config
+[INFO   ] Text: Provider: sdl2(['text_pango'] ignored)
+[DEBUG  ] Window: Provider <egl_rpi> ignored by config
+[DEBUG  ] Window: Provider <sdl2> ignored by config
+[DEBUG  ] Window: Provider <x11> ignored by config
+[CRITICAL] Window: Unable to find any valuable Window provider. Please enable debug logging (e.g. add -d if running from the command line, or change the log level in the config) and re-run your app to identify potential causes
+
+[DEBUG  ] Cache: register <textinput.label> with limit=None, timeout=60.0
+[DEBUG  ] Cache: register <textinput.width> with limit=None, timeout=60.0
+[DEBUG  ] App: Loading kv <./dro.kv>
+[DEBUG  ] App: kv <./dro.kv> not found
+[CRITICAL] App: Unable to get a Window, abort.

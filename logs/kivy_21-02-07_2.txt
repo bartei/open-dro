@@ -1,0 +1,12 @@
+[INFO   ] Logger: Record log in /home/pi/Projects/dro/logs/kivy_21-02-07_2.txt
+[INFO   ] Kivy: v2.0.0
+[INFO   ] Kivy: Installed at "/usr/local/lib/python3.7/dist-packages/kivy/__init__.py"
+[INFO   ] Python: v3.7.3 (default, Jul 25 2020, 13:03:44) 
+[GCC 8.3.0]
+[INFO   ] Python: Interpreter at "/usr/bin/python3"
+[INFO   ] Factory: 186 symbols loaded
+[INFO   ] Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+[INFO   ] Text: Provider: sdl2(['text_pango'] ignored)
+[CRITICAL] Window: Unable to find any valuable Window provider. Please enable debug logging (e.g. add -d if running from the command line, or change the log level in the config) and re-run your app to identify potential causes
+
+[CRITICAL] App: Unable to get a Window, abort.

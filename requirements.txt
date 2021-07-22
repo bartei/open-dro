@@ -1,0 +1,8 @@
+Kivy~=2.0.0
+kivymd~=0.104.1
+spidev~=3.4
+docutils~=0.14
+pygments~=2.3.1
+redis~=3.5.3
+marshmallow-dataclass~=8.3.1
+pyyaml~=5.4.1

@@ -1,0 +1,36 @@
+axis_configurations:
+- decimal_places: 3
+  direction: 1
+  increment_per_step: 0.05
+  label: X
+- decimal_places: 1
+  direction: 1
+  increment_per_step: 0.05
+  label: Y
+- decimal_places: 2
+  direction: 1
+  increment_per_step: 0.05
+  label: Z
+- decimal_places: 2
+  direction: -1
+  increment_per_step: 0.05
+  label: A
+current_origin: 0
+current_tool: 0
+origins:
+- name: Base
+  offset:
+  - 0.0
+  - 0.0
+  - 0.0
+  - 0.0
+tools:
+- diameter: 0.0
+  icon: ''
+  name: Empty Tool
+  offset:
+  - 0.0
+  - 0.0
+  - 0.0
+  - 0.0
+  tool_number: 1
