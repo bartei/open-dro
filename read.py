@@ -8,7 +8,7 @@ spi = SpiConnector()
 
 if __name__ == '__main__':
     while True:
-        time.sleep(0.05)
+        time.sleep(1/20)
         r = redis.Redis(host='localhost', port=6379, db=0)
         coordinates = spi.read_coordinates()
         print(coordinates)
